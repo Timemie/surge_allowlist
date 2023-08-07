@@ -6,12 +6,7 @@ DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,behance.com
 DOMAIN-SUFFIX,pinterest.com
 
-#AI网站
-DOMAIN-SUFFIX,midjourney.com
-DOMAIN-SUFFIX,nijijourney.com
-
 #关键词匹配
 DOMAIN-KEYWORD,dribbble
 DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,discord
