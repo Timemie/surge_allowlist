@@ -1,0 +1,9 @@
+#AI网站
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,nijijourney.com
+
+#Discord 关键词
+DOMAIN-KEYWORD,discord
+
+#ChatGPT
+DOMAIN-SUFFIX,openai.com
